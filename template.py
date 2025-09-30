@@ -3,7 +3,7 @@ from pathlib import Path
 
 list_of_files = [
     "metadata.csv",
-    "analysis_ipynb",
+    "analysis.ipynb",
     "app.py",
     "requirements.txt",
     "images/viisualization.png",
